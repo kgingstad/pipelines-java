@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kgingstad/pipeline_test/_apis/build/status/kgingstad.pipelines-java?branchName=master)](https://dev.azure.com/kgingstad/pipeline_test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
